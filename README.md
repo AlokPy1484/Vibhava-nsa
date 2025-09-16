@@ -55,7 +55,7 @@ Current vision of this project is having these bugs which need to be fixed
 - [ ] fix about me animation
 - [ ] fix video player layout bug
 
-## 🔝 New Features
+## 🔥New Features
 
 - [ ] Make gallery using horizontal scrol
 - [ ] Dark Mode
