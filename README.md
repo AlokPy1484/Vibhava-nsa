@@ -52,7 +52,6 @@ And be sure to specify any other minimum requirements like Python versions or op
 ## 🐛 Bugs
 
 Current vision of this project is having these bugs which need to be fixed
-- [ ] add responsive navbar
 - [ ] fix about me animation
 - [ ] fix video player layout bug
 
@@ -61,6 +60,7 @@ Current vision of this project is having these bugs which need to be fixed
 - [ ] Make gallery using horizontal scrol
 - [ ] Dark Mode
 - [ ] SVG animation for dark mode icon
+- [ ]  add responsive navbar
 
 
 
