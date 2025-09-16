@@ -1,8 +1,11 @@
-# 📦 Vibhava (Nasa SpaceAPP Challenge Hackathon)
+# 🛰️ Vibhava
 
-(add your badges here)
+Nasa SpaceAPP Challenge Hackathon
 
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
+> Hi! 👋 I started this project as part of the NASA Space Apps Hackathon. Initially, it was just a simple WordPress site, but working on it sparked my curiosity and passion for web development. What began as a small experiment has now grown into something much more meaningful to me.
+As I iterated on the project, I dove deeper into web technologies — learning HTML, CSS, and JavaScript to gain control over every detail. Over time, I explored frontend frameworks like React to build richer, more dynamic interfaces. Each version of this project reflects a step in my learning journey, from basic static pages to interactive components and responsive layouts.
+This repository represents both the current state of the project and my progress as a developer. It’s still very much a work in progress — there are bugs, design inconsistencies, and features I’m planning to add. I welcome any feedback, suggestions, or bug reports to help improve it.
+Thank you for checking it out! 🚀
 
 
 ## 🌟 Highlights
